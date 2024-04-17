@@ -1,0 +1,11 @@
+J'ai choisis les features variantes UI et IA
+
+Pour l'IA, je voulais la faire sauter de plateforme en plateforme, mais je n'ai pas réussis.
+J'ai essayé avec des Nav Link Proxy, ça ne la fait pas sauter mais elle peut descendre d'une plateforme.
+Du coup, l'IA disparait des fois car elle tombe dans le vide. Aussi, je lui ai assigné une task pour qu'elle
+tue le joueur quand elle l'atteint, mais elle fait cette task quand le joueur est hors de portée (genre elle
+considère avoir atteint le joueur quand elle n'a pas de chemin pour l'atteindre).
+
+Je me suis aidé principalement du cours pour écrire les scripts, aussi d'internet pour essayer de faire
+sauter l'IA et voir où trouver le World Setting.
+

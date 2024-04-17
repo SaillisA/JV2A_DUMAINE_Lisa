@@ -1,3 +1,9 @@
+J'ai d'abords créer la hiérarchie et déplacer les fichiers du stater content. J'ai fait le player controller
+et j'ai créer des fonctiones GetDammage, GetHeal et GetDead pour avoir retirer/ajouter PV et tuer le joueur
+en les appelant simplement dans d'autres BP concernés. Pour le double jump, y'avait juste une case a coché.
+
+
+
 J'ai choisis les features variantes UI et IA
 
 Pour l'IA, je voulais la faire sauter de plateforme en plateforme, mais je n'ai pas réussis.
